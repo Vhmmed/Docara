@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Vhmmed/Docara/blob/main/assets/LogoApp/logo.jpg?raw=true" alt="Docara Logo" width="200" height="200" style="border-radius: 50%;" />
+  <img src="https://github.com/Vhmmed/Docara/blob/main/assets/LogoApp/logo.jpg?raw=true" alt="Docara Logo" width="200" height="200" style="border-radius: 100%;" />
   
   # 🏥 Docara — Medical Booking Application
   

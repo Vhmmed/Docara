@@ -1,0 +1,47 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+*.freezed.dart
+*.inject.summary
+*.inject.dart
+coverage/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Environment files (contain secrets)
+.env
+.env.local
+.env.production
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/Generated.xcconfig
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/google-services.json
+*.apk
+*.aab
+
+# Supabase
+supabase/.temp/
+supabase/.branches/
+
+# macOS
+macos/Pods/
+macos/.symlinks/
+macos/Runner.xcworkspace/
